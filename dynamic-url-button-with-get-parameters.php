@@ -5,7 +5,7 @@
  * Version: 1.0.0
  * Author: Indranil Mondal
  * Author URI: https://www.linkedin.com/in/indranil-mondal-26b053a7/
- * Plugin URI: https://github.com/Indranil-Mondal
+ * Plugin URI: https://github.com/Indranil-Mondal/dynamic-url-button-with-get-parameters/
  * Text Domain: dynamic-url-button-with-get-parameters
  * Requires PHP: 7.0
  * Requires at least: 5.6
