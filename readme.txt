@@ -1,6 +1,6 @@
-=== Dynamic URL Button With Get Parameters – Custom GET Parameters & Styling === 
+=== Dynamic URL Button With Get Parameters – Custom GET Parameters & Styling ===
 Contributors: indranilmondal01
-Tags: custom dynamic button, elementor dynamic URL button widget, GET parameters, post id button, elementor addon
+Tags: elementor, widget, button, dynamic url, get parameters, elementor widget, elementor addon, custom button, url builder
 Donate link: https://buymeacoffee.com/indranil_devstudio
 Requires at least: 5.6
 Tested up to: 6.6

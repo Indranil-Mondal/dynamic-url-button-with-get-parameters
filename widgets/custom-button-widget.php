@@ -17,7 +17,11 @@ class Elementor_Custom_Button_Widget extends \Elementor\Widget_Base {
         return [ 'basic' ];
     }
 
-    protected function _register_controls() {
+    public function get_keywords() {
+        return [ 'button', 'custom button', 'url button', 'dynamic button' ];
+    }
+
+    protected function register_controls() {
         // Content Controls
         $this->start_controls_section(
             'content_section',
